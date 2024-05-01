@@ -1,6 +1,6 @@
 import styles from './Pamonha.css'
 
-export function Pamonha(){
+export default function Pamonha(){
     return (
         <div className={styles.Pamonha}>
             <div>Pamonha</div>

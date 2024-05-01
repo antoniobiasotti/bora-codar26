@@ -1,11 +1,10 @@
-import './App.css';
-import { Pamonha } from './components/Pamonha'
+import "./App.css";
+import Pamonha from "./components/Pamonha.jsx";
 
 function App() {
   return (
     <div className="App">
-      Oi
-      <Pamonha/>
+      <Pamonha />
     </div>
   );
 }
